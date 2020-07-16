@@ -1,5 +1,5 @@
 def new_hash
-  orange_uses
+  orange_uses = { }
 end
 
 def my_hash
