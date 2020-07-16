@@ -13,4 +13,7 @@ end
 
 def id_hash_generator(number)
   int = {}
+  if int[:id]
+    put "wha's next"
+    
 end
