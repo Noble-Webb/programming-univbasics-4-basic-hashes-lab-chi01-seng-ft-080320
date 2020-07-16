@@ -12,10 +12,5 @@ end
 
 
 def id_hash_generator(number)
-  int = {}
-  if int[:id]
-    put "what's next"
-  else
-    int[:id] = number
-  end
+  {:id => number}
 end
