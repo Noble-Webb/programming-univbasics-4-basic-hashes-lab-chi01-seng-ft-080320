@@ -1,5 +1,5 @@
 def new_hash
-  # return an empty hash
+  orange_uses
 end
 
 def my_hash
